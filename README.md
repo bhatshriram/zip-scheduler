@@ -1,8 +1,8 @@
 # The Traveling Zip
 
-_**Zipline Take Home Coding Challenge**_
+_**Zipline Coding Challenge**_
 
-**Time Expectations**: we expect most folks to come up with a good solution in 90 minutes to 2 hours.
+**Time Expectations**: 90 minutes to 2 hours.
 
 **Language**: `python3.8`, `golang 1`, `C++ 20`, `Rust`, `Ruby`, `Java`, `TypeScript` or `Julia`. Choose one of these that will best showcase your work.
 
@@ -39,7 +39,7 @@ In general operations, we will receive a sequence of orders in real-time. Each o
 5. Once they have returned, Zips charge instantly and can be immediately sent out again.
 6. The Nest has a limited number of Zips (also defined in the starter code).
 
-## What We're Looking For
+## Expectations:
 
 ### 1. Implement the Scheduler
 
@@ -68,8 +68,6 @@ Ideas include:
 
 We are customer obsessed and would love for you to show empathy for the customer. We also care about an answer that is easy to understand, easy to debug, and easy to extend.
 
-We value your time and don't expect you to go very far with this problem. For example, it is ok to leave TODOs that you would come back to or interesting ideas that you'd consider exploring in the future. During the live code review, you will be given a chance to explain your choices and where you would go next with this problem.
+We value your time and don't expect you to go very far with this problem. For example, it is ok to leave TODOs that you would come back to or interesting ideas that you'd consider exploring in the future.
 
 ## Ready for Take Off!
-
-Feel free to email questions to your recruiter / the engineer who sent you this problem if you have any! We're happy to help.
